@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504184820759",
+    "project_id": "footwear-a156d",
+    "storage_bucket": "footwear-a156d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504184820759:android:69ca9c990251eb8e33b852",
+        "android_client_info": {
+          "package_name": "com.example.footwear_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl4tEmfwn27wS39Oqc_UZCcII0a7L3iA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
